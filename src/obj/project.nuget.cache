@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kap9bxlmut4Knuo0Y0cXMp6nJQrV4ZoKu0xSGwUB2AQtNK64D+TTYWYnEsMmKRwBJ6Ox5fq8r1prUOMSRo25KQ==",
+  "dgSpecHash": "Ft9Kf63fFG6tYvICbG8hCU1++Rtw+bgBUleqTFhSd5qQSz1tq0QAyj4DvEk/IRd90T1IySa2sn0uWOXtKvv1zg==",
   "success": true,
-  "projectFilePath": "E:\\Valorant Projects\\ValNet\\src\\ValNet.csproj",
+  "projectFilePath": "D:\\Cs2022\\ValNet\\src\\ValNet.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mike\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\Mike\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
-    "C:\\Users\\Mike\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
+    "C:\\Users\\D E E J\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\D E E J\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
+    "C:\\Users\\D E E J\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
